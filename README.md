@@ -2,7 +2,7 @@ project# PM40
 
 ## Introduction
 
-In this project, we will build a full OT to IT workflow for an **Predictive Maintenance** use case. Below is the architecture diagram, showing all the components. The diagram divides the components according to their location (factory, regional or datacenter level) but in this project all such components will reside in one single host.
+In this project, we will build a full OT to IT workflow for a **Predictive Maintenance** use case. Below is the architecture diagram, showing all the components. The diagram divides the components according to their location (factory, regional or datacenter level) but in this project all such components will reside in one single host.
 
 ![](./images/iot.jpg)
 
