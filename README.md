@@ -234,8 +234,8 @@ systemctl start mosquitto
 
 Now clone this repo, then run the simulator to send sensor data to mosquitto.
 ```
-git clone https://github.com/keshava/IoT-predictive-maintenance.git
-mv IoT-predictive-maintenance/mqtt.* ~
+git clone https://github.com/keshava/PM40.git
+mv PM40/mqtt.* ~
 python mqtt.iot_simulator.py mqtt.iot.config
 ```
 
